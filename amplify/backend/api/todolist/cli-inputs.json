@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "todolist",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\Acer\\OneDrive\\Desktop\\cloud\\todolist\\amplify\\backend\\api\\todolist\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7,
+      "apiKeyExpirationDate": "2022-05-01T13:39:04.736Z",
+      "keyDescription": "demo"
+    },
+    "conflictResolution": {},
+    "additionalAuthTypes": []
+  }
+}

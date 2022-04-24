@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/clear": {
+      "name": "/clear",
+      "lambdaFunction": "clear",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

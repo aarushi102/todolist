@@ -1,0 +1,14 @@
+{
+  "resourceName": "mybucketreatdemo",
+  "policyUUID": "5bf375aa",
+  "bucketName": "todolist5e2941788c1e4856909e3b307040ced4",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

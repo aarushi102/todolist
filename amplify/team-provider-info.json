@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "todolist2e61abda": {}
+      },
+      "function": {
+        "clear": {
+          "deploymentBucketName": "amplify-amplifyced7366e35fc4-staging-30646-deployment",
+          "s3Key": "amplify-builds/clear-54374f315063695a722f-build.zip"
+        }
       }
     }
   }
